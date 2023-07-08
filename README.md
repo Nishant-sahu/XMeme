@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>XMeme - Project Overview</title>
-</head>
-<body>
+
   <h1>XMeme</h1>
   <h2>Project Overview</h2>
   <p>XMeme is a simple backend web application that allows users to post and view memes. This project focuses on building the XMeme backend from scratch, implementing necessary APIs for meme posting and fetching, and utilizing MongoDB for data storage and retrieval.</p>
@@ -35,5 +29,3 @@
 
   <h2>Conclusion</h2>
   <p>The XMeme project involved building a backend web application that allows users to post and view memes. By implementing necessary APIs, utilizing MongoDB for data storage, and following best practices for code organization and documentation, XMeme provides a simple and efficient solution for meme sharing and browsing.</p>
-</body>
-</html>
